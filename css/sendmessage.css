@@ -1,0 +1,26 @@
+img{
+	border-radius:40%;
+}
+a{
+	text-decoration:none;
+}
+h1{
+	background:green;
+	color:white;
+}
+body{
+	background:#555;
+}
+#sms{
+	color:white;
+	font-size:27px;
+}
+i{
+	color:white;
+	font-size:26px;
+}
+#name{
+	background:black;
+	color:white;
+	font-size:30px;
+}

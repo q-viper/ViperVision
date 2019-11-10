@@ -1,0 +1,29 @@
+#fm{
+	background:#555;
+	color:white;
+	font-size:23px;
+	
+	}
+
+
+a{
+	text-decoration:none;
+	
+}
+#container{
+	border-radius:40%;
+}
+#link{
+	color:red;
+	background:green;
+	font-size:25;
+}
+#gtp{
+	background:white;
+	color:black;
+	font-size:28px;
+	text-align:center;
+}
+#gtp:hover{
+	color:red;
+}

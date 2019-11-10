@@ -1,0 +1,27 @@
+#img{
+	border-radius:70%;
+}
+#pp{
+	text-align:center;
+}
+table{
+	font-size:30;
+	text-align:center;
+	width:100%;
+}
+tr:nth-child(even){background-color: black;color:white;}
+tr:nth-child(odd){background-color: #ddd;color:green;}
+	#ppg{
+		background:green;
+		width:100%;
+		color:white;
+		text-align:center;
+	}
+#goto{
+		text-decoration:none;
+		color:white;
+		font-size:30;
+}
+#goto:hover{
+	color:red;
+}

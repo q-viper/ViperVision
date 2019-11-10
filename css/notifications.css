@@ -1,0 +1,22 @@
+#article{
+	background:#553;
+	color:white;
+	text-align:center;
+	font-size:40px;
+}
+#article:hover{
+	background:#550;
+	color:red;
+}
+#datetime{
+	background:#550;
+	color:red;
+	text-align:right;
+	font-size:35px;
+}
+#datetime:hover{
+	background:#553;
+	color:white;
+	font-size:25;
+	
+}

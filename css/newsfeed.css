@@ -1,0 +1,20 @@
+body{
+	background: #003300;
+	text-align:left;
+}
+p{
+	font-size:24;
+	color:white;
+	background:#558;
+}
+#uploader{
+	background:#550;
+}
+a{
+	text-decoration:none;
+	color:white;
+	font-size:26;
+}
+a:hover{
+	color:red;
+}

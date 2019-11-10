@@ -1,0 +1,113 @@
+/*--------------- BACKGROUND COLORS ----------------------*/
+.main-navigation,
+#technology-category .tab-link.active,
+li .wide, 
+li .boxed,
+.sub-menu,
+.subscribe button[type="submit"],
+.pagination .page-numbers.current, 
+.pagination .page-numbers:hover, 
+.pagination .nav-previous a:hover, 
+.pagination .nav-next a:hover,
+.site-footer span.rating,
+.section-sidebar .widget-title, 
+#secondary .widget-title,
+.widget_post_slider .slick-next, 
+.widget_post_slider .slick-prev,
+.read-more:hover,
+.quote-icon,
+#comments #submit,
+::-webkit-scrollbar-thumb,
+.navigation.posts-navigation .nav-links a:hover {
+    background-color: #b58f1c;
+}
+h2.entry-title.category-title,
+.category, 
+.category:focus {
+    background-color: #b58f1c !important;
+}
+
+/*--------------- END BACKGROUND COLORS ----------------------*/
+
+
+/*--------------- COLORS ----------------------*/
+
+.picker_close, 
+.picker_close:hover, 
+.picker_close:focus,
+#breaking-news .entry-title,
+.color-switcher .font-family li.active a, 
+.color-switcher .font-family li a:hover, 
+.color-switcher .font-family li a:focus,
+.view-more,
+h2.entry-title,
+.widget_features ul li .fa,
+#secondary .post-title:hover a,
+#secondary li a:hover
+.post-title h5:hover a,
+time:hover,
+.backtotop:hover,
+.site-info a:hover,
+.widget_popular_category ul li:hover:before,
+#secondary .widget_popular_category ul li a:hover,
+#breadcrumb-list .breadcrumb-current, 
+#breadcrumb-list span:hover, 
+#breadcrumb-list a:hover, 
+#breadcrumb-list span:focus, 
+#breadcrumb-list a:focus,
+.blog-post .entry-meta a:hover,
+.blog-post .entry-meta time:hover,
+.entry-meta .pull-right .pull-left:hover .fa,
+.reply a:hover,
+.comment-list a:hover,
+.reply a:hover:before,
+#secondary .widget_recent_comments li:hover a,
+.post-title h5:hover a {
+    color: #b58f1c;
+}
+
+#technology-category .tab-link.active p,
+.category:hover, 
+.category:focus,
+.navigation.posts-navigation .nav-links a:hover {
+    color: #eee;
+}
+
+/*--------------- END COLORS ----------------------*/
+
+
+/*--------------- HOVER BACKGROUND COLORS ----------------------*/
+.main-navigation li:hover, 
+.main-navigation li:focus,
+#masthead .current-menu-item,
+.category:hover, 
+.category:focus,
+#comments #submit:hover {
+    background-color: #775f15 !important;
+}
+
+
+/*--------------- END HOVER BACKGROUND COLORS ----------------------*/
+
+
+
+/*--------------- BORDER COLOR ----------------------*/
+
+.pagination .page-numbers.current, 
+.pagination .page-numbers:hover, 
+.pagination .nav-previous a:hover, 
+.pagination .nav-next a:hover,
+#colophon,
+.section-sidebar .widget-title, 
+#secondary .widget-title,
+.widget-header,
+.read-more:hover,
+.navigation.posts-navigation .nav-links a,
+#comments #submit {
+    border-color: #b58f1c;
+}
+.entry-header {
+    border-color: #b58f1c !important;
+}
+
+/*--------------- END BORDER COLOR ----------------------

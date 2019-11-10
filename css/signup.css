@@ -1,0 +1,71 @@
+ a{
+	   text-decoration:none;
+	   color:white;
+	   font-size:30;
+   }
+   a:hover{
+	   background:green;
+   }
+        body {
+            background: #fff;
+            color: #505050;
+            font: 14px 'Segoe UI', tahoma, arial, helvetica, sans-serif;
+            margin: 20px;
+            padding: 0;
+        }
+
+        #header {
+            background: #efefef;
+            padding: 0;
+        }
+
+        h1 {
+            font-size: 40px;
+            font-weight: normal;
+            margin: 0;
+            padding: 0 30px;
+            line-height: 150px;
+        }
+
+        p {
+            font-size: 20px;
+            color: red;
+            background: #969696;
+            padding: 0 30px;
+            line-height: 50px;
+        }
+
+        
+
+        #form {
+			font-size: 24px;
+            text-transform: none;
+            margin-bottom: 25px;
+            border: none;
+		    width: 100%;
+		    float: left;
+		    margin: 0 5 0 4%;
+			background: #efefef;
+			right:400px;
+		   text-shadow:10px 6px 20px;
+        }
+
+      h4 {
+            font-size: 20px;
+            color: #fff;
+            background: #969996;
+            padding: 0 30px;
+            line-height: 50px;
+        }
+	#submit {
+		 font-size: 20px;
+		background: #968796;
+	}
+
+	#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}

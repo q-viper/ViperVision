@@ -1,0 +1,42 @@
+body{
+	background: #003300;
+}
+h1{
+	background:black;
+	color:white;
+}
+#photo{
+	background: #003300;
+	text-align:center;
+}
+#text{
+	background:#578;
+	text-align:center;
+}
+figcaption{
+	background:#003300;
+	color:white;
+	font-size:23px;
+}
+p:hover{
+	color:black;
+}
+i{
+	font-size:24px;
+	color:red;
+}
+a{
+	text-decoration:none;
+	color:red;
+}
+h2{
+	background:blue;
+	color:white;
+}
+#moreposts{
+	text-shadow:2px 3px 4px;
+	color:red;
+	background:green;
+	font-size:24px;
+	text-align:center;
+}

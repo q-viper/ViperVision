@@ -1,0 +1,16 @@
+img{
+	border-radius:40%;
+}
+div{
+	background:black;
+	color:white;
+	font-size:24;
+}
+a{
+	color:white;
+	font-size:25;
+}
+a:hover{
+	color:red;
+	background:white;
+}

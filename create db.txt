@@ -1,0 +1,18 @@
+<?php
+include_once("constant.php");
+//$users=mysqli_query($s,"select fo)
+//$r=mysqli_query($s,"CREATE TABLE Persons(PersonID int,LastName varchar(255),FirstName varchar(255),Address varchar(255),City varchar(255)");
+$so="CREATE TABLE Persons ( PersonID int, LastName varchar(255), FirstName varchar(255), Address varchar(255), City varchar(255))";
+if(mysqli_query($s,$so))
+	echo"yeah";
+$s=mysqli_connect('localhost','root','');
+if(!$s){die("connection failed".mysqli_connect_error());}
+$sql='CREATE DATABASE tesst';
+$r=mysqli_query($s,$sql);
+if(mysqli_query($s,$sql))
+	echo"created";
+else
+	echo"error".mysqli_error($s);
+
+mysqli_close($s);
+?>

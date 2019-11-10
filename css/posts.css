@@ -1,0 +1,36 @@
+#addpost{
+			font-size: 40px;
+            font-weight: normal;
+            margin: 0;
+			color:white;
+            padding: 0 30px;
+            line-height: 150px;
+}
+h1{
+	font-size: 20px;
+            color: red;
+            background: #969696;
+            padding: 0 30px;
+            line-height: 50px;
+}
+#photo{
+			
+            
+		     margin:00px 00px 00px 400px;
+			
+		   
+}
+body{
+			background-color:906081;
+		}
+
+#text{
+			     margin:00px 00px 00px 300px;
+				background:white;
+				font-size:30px;
+				color:green;
+		
+}
+a:hover{
+	 text-shadow:10px 6px 20px;
+}

@@ -1,0 +1,39 @@
+
+body{
+			background-color:906081;
+		}
+h3{
+	color:white;
+	font-size:30px;
+	 text-shadow:10px 6px 20px;
+	 margin:10px 9px 14px 420px;
+}
+#form{
+	border:6px solid white;
+	 padding: 0 35px;
+}
+#text{
+	margin:10px 9px 14px 480px;
+}
+#image{
+	color:silver;
+	margin:10px 9px 14px 0px;
+	font-size:20px;
+}
+h4{
+	color:white;
+	font-size:30px;
+	 text-shadow:10px 6px 20px;
+	 margin:10px 9px 10px 00px;
+}
+#submit{
+	font-size:30px;
+	 text-shadow:10px 6px 20px;
+	 margin:10px 9px 14px 200px;
+}
+#clear{
+		font-size:30px;
+	 text-shadow:10px 6px 20px;
+	 margin:00px 00px 00px 500px;
+
+}
